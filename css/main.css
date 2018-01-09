@@ -14,7 +14,7 @@
  *  06. buttons 
  *  07. other components
  *  08. common styles
- *  09. header styles
+ *  09. styles
  *  10. intro
  *  11. about
  *  12. resume
@@ -1091,7 +1091,7 @@ header {
 }
 header .row {
 	position: relative;
-	min-height: 66px;
+	min-height: 50px;
 }
 header .top-bar {
 	display: block;
@@ -1104,8 +1104,8 @@ header .top-bar {
 }
 header .logo {
 	float: left;
-	margin-left: 20px;
-	margin-right: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
 	margin-top: 15px;
 	position: relative;
 }
